@@ -1,0 +1,2 @@
+rubpy[rtc]==7.3.5
+aiohttp>=3.9,<4
